@@ -2,7 +2,7 @@
 
 An ASI plugin designed to force a native 4:3 (default) aspect ratio in *Ori and the Blind Forest* (2015). This removes the hardcoded horizontal black bars (letterboxing) and scales the 3D rendering perfectly to fit 4:3 displays. 
 
-*Known issue: The 2D menu gets cropped.*
+*Known issue: The 2D menu gets cropped. In X86 PC, game launches too quickly, wait 10s for the aspect ratio to change.*
 
 ## Installation
 1. Place `version.dll`, `Ori1_ARFix.asi`, and `Ori1_ARFix.ini` directly into your game's root folder (where `oriDE.exe` is located).
