@@ -12,7 +12,7 @@ An ASI plugin designed to force a native 4:3 (default) aspect ratio in *Ori and 
 
 ## Usage & Hotkeys
 
-*   **Auto-Patch:** The plugin will automatically scan and patch the game memory **10 seconds** after launch. Simply load into your save file as normal.
+*   **Auto-Patch:** The plugin will automatically scan and patch the game memory after launch.
 *   **Manual Override (F11):** Because JIT memory in theory can occasionally be re-allocated (I can't repro) by the engine, your aspect ratio might suddenly revert to 16:9 with black bars. If this happens, simply **press F11 on your keyboard**. The plugin will instantly re-scan the memory and fix the aspect ratio.
 
 ## Configuration (Optional)
