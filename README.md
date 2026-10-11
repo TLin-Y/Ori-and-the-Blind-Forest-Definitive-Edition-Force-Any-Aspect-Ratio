@@ -7,7 +7,7 @@ An ASI plugin designed to force a native 4:3 (default) aspect ratio in *Ori and 
 ## Installation
 1. Place `version.dll`, `Ori1_ARFix.asi`, and `Ori1_ARFix.ini` directly into your game's root folder (where `oriDE.exe` is located).
 2. Linux / Android Winlator / Proton Users
-*   **Winlator or Armada:** Go to Container Settings (or Shortcut Settings) -> Environment Variables -> Add: `WINEDLLOVERRIDES="version=n,b"` (If you used `winmm.dll`, change it to `version,winmm=n,b`).
+*   **Winlator or Armada:** Go to Container Settings (or Armada Settings) -> Environment Variables -> Add: `WINEDLLOVERRIDES="version=n,b"` (If you used `winmm.dll`, change it to `version,winmm=n,b`).
 *   **Steam (Proton):** Add `WINEDLLOVERRIDES="version=n,b" %command%` to your game's Launch Options.
 
 ## Usage & Hotkeys
