@@ -1,5 +1,14 @@
 # Ori-and-the-Blind-Forest-Definitive-Edition-Force-Any-Aspect-Ratio
+# V2 maintain FOV
+"I've recompiled Assembly-CSharp.dll to unlock all built-in aspect ratio limits. 
+It now automatically detects and matches your current display resolution—no extra setup required. 
+Tested and confirmed working on everything from 32:9 to 1:1 ratios.
+## Installation
+Copy and replace the SteamLibrary\steamapps\common\Ori DE\oriDE_Data\Managed\Assembly-CSharp.dll
 
+
+
+# V1 maintain height (deprecated)
 An ASI plugin designed to force a native 4:3 (default) aspect ratio in *Ori and the Blind Forest* (2015). This removes the hardcoded horizontal black bars (letterboxing) and scales the 3D rendering perfectly to fit 4:3 displays. 
 
 *Known issue: The 2D menu gets cropped. On x86 PCs, the game launches too quickly, so it takes about 10 seconds for the aspect ratio change to apply.*
