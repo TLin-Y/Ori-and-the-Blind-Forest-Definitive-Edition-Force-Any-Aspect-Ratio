@@ -5,6 +5,7 @@ It now automatically detects and matches your current display resolution—no ex
 Tested and confirmed working on everything from 32:9 to 1:1 ratios.
 ## Installation
 Copy and replace the SteamLibrary\steamapps\common\Ori DE\oriDE_Data\Managed\Assembly-CSharp.dll
+
 In GameNative container: select your A: disk, replace the oriDE_Data\Managed\Assembly-CSharp.dll
 
 
