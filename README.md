@@ -1,5 +1,5 @@
 # Ori-and-the-Blind-Forest-Definitive-Edition-Force-Any-Aspect-Ratio
-# V2 maintain FOV
+# V2 maintain FOV (released as v1.0.0)
 I've recompiled Assembly-CSharp.dll to unlock all built-in aspect ratio limits. 
 It now automatically detects and matches your current display resolution—no extra setup required. 
 Tested and confirmed working on everything from 32:9 to 1:1 ratios.
